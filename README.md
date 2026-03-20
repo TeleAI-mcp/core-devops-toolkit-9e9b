@@ -1,2 +1,3 @@
-# core-devops-toolkit-9e9b
+# Core Devops Toolkit 9E9B
+
 A repository to test GitHub automation for issue management.
